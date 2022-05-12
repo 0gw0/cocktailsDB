@@ -9,5 +9,5 @@ If you click on -find out more- details like ingredients and instructions on how
 
 #### technical information
 ------
-Shoutout to [John Smilga](https://github.com/john-smilga/react-projects-15-cocktails) For the course
+Shoutout to [John Smilga](https://github.com/john-smilga/react-projects-15-cocktails) For the course,
 **Built with** [React](https://reactjs.org/)
